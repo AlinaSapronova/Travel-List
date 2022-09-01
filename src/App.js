@@ -10,11 +10,11 @@ import travel from "./travel.avif"
     <div className='container'>
         <div>
           <img src={list} alt="grocery" width={250}/>
-          <h1>Grocery List</h1>
+          <h1>Travel List</h1>
         </div>
       <Test/>
       <div>
-        <img src={travel} alt="grocery" width={250} height={300}/>
+        <img src={travel} alt="grocery" width={200} height={250}/>
       </div>
   </div>
   );

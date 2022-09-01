@@ -20,7 +20,7 @@ form{
 }
 img{
   border-radius: 30px;
-  margin: 10px;
+  margin: 5px;
 }
 input,button{
   padding: 10px;
@@ -31,7 +31,6 @@ input,button{
   font-size: 30px;
 }
 .add{
-  margin-top: 5px;
   background-color: #224B0C;
   color:#F7F6DC;
   font-size: 30px;
@@ -54,4 +53,10 @@ h1{
 }
 .crossed{
   text-decoration: line-through 2px yellow;
+}
+.li{
+  display: flex;
+}
+li{
+  align-self: center;
 }
