@@ -4,7 +4,6 @@
   align-items: center;
   width: 400px;
   margin: 10px 0;
-  background-color: #F7F6DC;
 
 }
 body{
@@ -13,6 +12,7 @@ body{
   justify-content: center;
 }
 form{
+  background-color: #F7F6DC;
   display: flex;
   flex-direction: column;
   align-items: center;
